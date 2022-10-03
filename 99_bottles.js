@@ -1,7 +1,10 @@
+//github worked? --no!
 function bottleSong() {
   // Write your code here!
   let bottlesStr = 'bottles';
 
+  let x =0;
+  let y =0;
   let startBottleCount = 3;
   let CurrentBottleCountStrt = startBottleCount;
   let CurrentBottleCountEnd = startBottleCount -1;
