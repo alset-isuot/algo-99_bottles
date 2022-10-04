@@ -3,7 +3,7 @@ function bottleSong() {
   // Write your code here!
   let bottlesStr = 'bottles';
 
-  let startBottleCount = 3;
+  let startBottleCount = 99;
   let CurrentBottleCountStrt = startBottleCount;
   let CurrentBottleCountEnd = startBottleCount -1;
   
